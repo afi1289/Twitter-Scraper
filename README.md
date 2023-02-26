@@ -1,2 +1,2 @@
 # Twitter-Scraper
-How to use `tweepy` to extract tweets and save them daily in kaggle.
+A complete guide for extracting and analyzing Twitter data related to a specific topic. It focuses on scraping tweets about HBO's 'House of the Dragon' series using the Twitter API v2 and updates the dataset daily. The notebook also covers text preprocessing techniques to clean the data and presents various analyses, such as identifying the most mentioned characters and their frequency in the tweets.
